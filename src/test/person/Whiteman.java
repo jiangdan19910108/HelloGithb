@@ -27,19 +27,4 @@ public class Whiteman {
 	public void setAge(int age) {
 		this.age = age;
 	}
-
-	/**
-	 *
-	 */
-	public Whiteman() {
-		// TODO 自動生成されたコンストラクター・スタブ
-	}
-
-	public void eat(String food) {
-		System.out.println("eat " + food);
-	}
-
-	public void sleep(String place) {
-		System.out.println("sleep in " + place);
-	}
 }
