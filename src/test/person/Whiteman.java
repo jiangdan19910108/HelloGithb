@@ -8,6 +8,7 @@ package test.person;
  *
  */
 public class Whiteman {
+	// name
 
 	String name;
 	int age;
